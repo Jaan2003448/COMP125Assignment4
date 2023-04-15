@@ -10,7 +10,7 @@ const updateButton = document.getElementById("update");
 
 function loadImageList() {
     const xhr = new XMLHttpRequest();
-    xhr.open("GET", "gallery.txt", true);
+    xhr.open("GET", "images.txt", true);
     xhr.onreadystatechange = function() {
         if (xhr.readyState === 4 && xhr.status === 200) {
             images = JSON.parse(xhr.responseText);
