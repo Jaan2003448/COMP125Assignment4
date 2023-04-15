@@ -1,0 +1,7 @@
+[
+    {"filename" : "IMG_3375.JPG", "duration" : 3000},
+    {"filename" : "IMG_3376.JPG", "duration" : 3500},
+    {"filename" : "IMG_3377.JPG", "duration" : 4000},
+    {"filename" : "IMG_3378.JPG", "duration" : 4500},
+    {"filename" : "IMG_3379.JPG", "duration" : 5000}
+]
